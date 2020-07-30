@@ -1,0 +1,9 @@
+.form {
+    width: 700px;
+    background: linear-gradient(89deg, #606c88, #3f4c6b 100%)
+}
+input {
+    outline: none;
+
+}
+
